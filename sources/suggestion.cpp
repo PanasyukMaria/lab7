@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by PanasyukMaria
 
 #include <stdexcept>
 #include <suggestion.h>

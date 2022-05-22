@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by PanasyukMaria
 
 #ifndef INCLUDE_JSONSTORAGE_HPP_
 #define INCLUDE_JSONSTORAGE_HPP_
